@@ -1,0 +1,7 @@
+stranka o NHL bude obsahovat èlánky galerii obrazku forum s vlákny nìjaké statistiky
+
+rozliseni na navstevnik registrovany a admin
+
+admin bude moct uplnì vše od mazani a editace po pridavani clanku vlaken fotek do galerie.
+registrovany bude moct pridavat komentare vytvaret vlakna a komentovat ve vlaknech
+navstevnik si bude muze pouze prohlizet clanky glaerie statiky a forum
